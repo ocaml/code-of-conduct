@@ -1,2 +1,3 @@
-# code-of-conduct
-Documents related to the Code of Conduct
+# OCaml Code of Conduct
+
+This repository contains documents related to the Code of Conduct.
