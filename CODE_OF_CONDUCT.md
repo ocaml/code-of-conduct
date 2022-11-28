@@ -21,10 +21,9 @@ comprehensive list of spaces is available at the
 [code-of-conduct](https://github.com/ocaml/code-of-conduct) GitHub repository.
 
 - **Be friendly and patient.**
-- **Be welcoming.**
-  We strive to be a community that welcomes and supports people of all
-  backgrounds and identities. This includes, but is not limited to people of
-  any origin, color, status, educational level, gender identity, sexual
+- **Be welcoming.** We strive to be a community that welcomes and supports
+  people of all backgrounds and identities. This includes, but is not limited to
+  people of any origin, color, status, educational level, gender, sexual
   orientation, age, culture and beliefs, and mental and physical ability.
 - **Be considerate.**
   Your work will be used by other people, and you in turn will depend on the
