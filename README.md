@@ -15,7 +15,7 @@ following format.
 - Create a `CODE_OF_CONDUCT.md` in your repository. Add the text in
   [CODE_OF_CONDUCT_TEMPLATE](./CODE_OF_CONDUCT_TEMPLATE.md), and fill in your
   contact details.
-- Make a pull request to add your prject to the [list of adopters](./list-of-adopters.md).
+- Make a pull request to add your project to the [list of adopters](./list-of-adopters.md).
 - You can also include the Code of Conduct team's contact details for reporting
   Code of Conduct violations. If you wish to do so, we request you to check with
   us first, either by mentioning you'd like to add the team's contact details for
