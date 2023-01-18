@@ -9,4 +9,4 @@ This project follows the OCaml Code of Conduct
 To report any violations, please contact:
 
 <Please add your own contact details and/or Code of Conduct team's contact
-details here. Refer to the README for more detials.>
+details here. Refer to the README for more details.>
