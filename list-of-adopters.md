@@ -7,6 +7,7 @@ following projects/spaces have adopted this Code of Conduct -
 * [geocaml organisation](https://github.com/geocaml) see [the organisation's profile](https://github.com/geocaml/.github)
 * [mirage/irmin](https://github.com/mirage/irmin) in [mirage/irmin#2255](https://github.com/mirage/irmin/pull/2255)
 * [ocaml-bench/sandmark](https://github.com/ocaml-bench/sandmark)
+* [ocaml-community/utop](https://github.com/ocaml-community/utop) in [ocaml-community/utop#436](https://github.com/ocaml-community/utop/pull/436)
 * [ocaml-multicore/domainslib](https://github.com/ocaml-multicore/domainslib)
 * [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio)
 * [ocaml-multicore/lockfree](https://github.com/ocaml-multicore/lockfree/pull/71)
