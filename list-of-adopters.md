@@ -24,6 +24,7 @@ following projects/spaces have adopted this Code of Conduct -
 * [ocsigen/ocsigen-toolkit](https://github.com/ocsigen/ocsigen-toolkit) in [ocsigen/ocsigen-toolkit#224](https://github.com/ocsigen/ocsigen-toolkit/pull/224)
 * [ocsigen/ocsigenserver](https://github.com/ocsigen/ocsigenserver) in [ocsigen/ocsigenserver#227](https://github.com/ocsigen/ocsigenserver/pull/227)
 * [ocsigen/tyxml](https://github.com/ocsigen/tyxml) in [ocsigen/tyxml#318](https://github.com/ocsigen/tyxml/pull/318)
+* [OCurrent organisation](https://github.com/ocurrent) see [the organisation's profile](https://github.com/ocurrent/.github)
 * [ocurrent/current-bench](https://github.com/ocurrent/current-bench)
 * [tarides/dune-release](https://github.com/tarides/dune-release) in [tarides/dune-release#474](https://github.com/tarides/dune-release/pull/474)
 * [tarides/opam-monorepo](https://github.com/tarides/opam-monorepo) in [tarides/opam-monorepo#391](https://github.com/tarides/opam-monorepo/pull/391)
