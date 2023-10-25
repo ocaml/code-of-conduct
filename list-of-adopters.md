@@ -10,7 +10,7 @@ following projects/spaces have adopted this Code of Conduct -
 * [ocaml-community/utop](https://github.com/ocaml-community/utop) in [ocaml-community/utop#436](https://github.com/ocaml-community/utop/pull/436)
 * [ocaml-multicore/domainslib](https://github.com/ocaml-multicore/domainslib)
 * [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio)
-* [ocaml-multicore/lockfree](https://github.com/ocaml-multicore/lockfree/pull/71)
+* [ocaml-multicore/saturn](https://github.com/ocaml-multicore/saturn/pull/71)
 * [ocaml-ppx/ppxlib](https://github.com/ocaml-ppx/ppxlib) in [ocaml-ppx/ppxlib#426](https://github.com/ocaml-ppx/ppxlib/pull/426)
 * [ocaml/dune](https://github.com/ocaml/dune) in [ocaml/dune#6875](https://github.com/ocaml/dune/pull/6875)
 * [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) in [ocaml/ocaml.org#1135](https://github.com/ocaml/ocaml.org/pull/1135)
