@@ -13,6 +13,7 @@ following projects/spaces have adopted this Code of Conduct -
 * [ocaml-multicore/saturn](https://github.com/ocaml-multicore/saturn/pull/71)
 * [ocaml-ppx/ppxlib](https://github.com/ocaml-ppx/ppxlib) in [ocaml-ppx/ppxlib#426](https://github.com/ocaml-ppx/ppxlib/pull/426)
 * [ocaml/dune](https://github.com/ocaml/dune) in [ocaml/dune#6875](https://github.com/ocaml/dune/pull/6875)
+* [ocaml/merlin](https://github.com/ocaml/merlin) in [ocaml/merlin#1749](https://github.com/ocaml/merlin/pull/1749)
 * [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) in [ocaml/ocaml.org#1135](https://github.com/ocaml/ocaml.org/pull/1135)
 * [ocaml/ocaml](https://github.com/ocaml/ocaml) in [ocaml/ocaml#11761](https://github.com/ocaml/ocaml/pull/11761)
 * [ocaml/opam](https://github.com/ocaml/opam) in [ocaml/opam#5419](https://github.com/ocaml/opam/pull/5419)
