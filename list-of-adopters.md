@@ -29,5 +29,6 @@ following projects/spaces have adopted this Code of Conduct -
 * [OCurrent organisation](https://github.com/ocurrent) see [the organisation's profile](https://github.com/ocurrent/.github)
 * [ocurrent/current-bench](https://github.com/ocurrent/current-bench)
 * [tarides/dune-release](https://github.com/tarides/dune-release) in [tarides/dune-release#474](https://github.com/tarides/dune-release/pull/474)
+* [ocaml-opam/opam-publish](https://github.com/ocaml-opam/opam-publish) in [ocaml-opam/opam-publish#151](https://github.com/ocaml-opam/opam-publish/pull/151)
 * [tarides/opam-monorepo](https://github.com/tarides/opam-monorepo) in [tarides/opam-monorepo#391](https://github.com/tarides/opam-monorepo/pull/391)
 * [watch.ocaml.org](https://watch.ocaml.org) see [the instance information](https://watch.ocaml.org/about/instance#code-of-conduct)
