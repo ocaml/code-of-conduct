@@ -4,6 +4,7 @@ In addition to the spaces listed in the
 [document](https://github.com/ocaml/code-of-conduct/blob/main/CODE_OF_CONDUCT.md), the
 following projects/spaces have adopted this Code of Conduct -
 
+* [ocaml.nvim](https://github.com/tarides/ocaml.nvim)
 * [geocaml organisation](https://github.com/geocaml) see [the organisation's profile](https://github.com/geocaml/.github)
 * [mirage/irmin](https://github.com/mirage/irmin) in [mirage/irmin#2255](https://github.com/mirage/irmin/pull/2255)
 * [ocaml-bench/sandmark](https://github.com/ocaml-bench/sandmark)
